@@ -14,25 +14,25 @@ Database [MongoDB]
 [Add-new-templates-for-projects]
 (back to top)
 
-## Live Demo link
-[Hello-Microverse](https://github.com/diarisdiakite/Hello-Microverse/pull/1)
-(back to top)
 
 ## 💻 Getting Started
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 In order to run this project you need:
-
+Have some knowledge of HTML and CSS
+Be familiar with git commands
+Basics understanding of Linters
 
 ### Setup
 Clone this repository to your desired folder:
+https://github.com/diarisdiakite/Hello-Microverse-1.git 
 
 ### Install
 Install this project with: [npm](https://www.npmjs.com/)
 
 ```[npm]
-npm (--npm-command-hello-microverse/app)
+npm install (--npm-command-hello-microverse/app)
 ```
 
 ### Usage
